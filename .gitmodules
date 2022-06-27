@@ -31,3 +31,6 @@
 [submodule "mssc-brewery-bom"]
 	path = mssc-brewery-bom
 	url = https://github.com/hffreitas/mssc-brewery-bom.git
+[submodule "deliveryService"]
+	path = deliveryService
+	url = https://github.com/hffreitas/deliveryService.git
