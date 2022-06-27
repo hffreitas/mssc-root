@@ -1,0 +1,33 @@
+[submodule "mssc-inventory-failover"]
+	path = mssc-inventory-failover
+	url = https://github.com/hffreitas/mssc-inventory-failover.git
+[submodule "mscc-beer-inventory-service"]
+	path = mscc-beer-inventory-service
+	url = https://github.com/hffreitas/mscc-beer-inventory-service.git
+[submodule "mssc-brewery-works-bom"]
+	path = mssc-brewery-works-bom
+	url = https://github.com/hffreitas/mssc-brewery-works-bom.git
+[submodule "mssc-config-server"]
+	path = mssc-config-server
+	url = https://github.com/hffreitas/mssc-config-server.git
+[submodule "mssc-brewery-root"]
+	path = mssc-brewery-root
+	url = https://github.com/hffreitas/mssc-brewery-root.git
+[submodule "mssc-brewery-gateway"]
+	path = mssc-brewery-gateway
+	url = https://github.com/hffreitas/mssc-brewery-gateway.git
+[submodule "mssc-brewery-eureka"]
+	path = mssc-brewery-eureka
+	url = https://github.com/hffreitas/mssc-brewery-eureka.git
+[submodule "mssc-brewery-config-examle"]
+	path = mssc-brewery-config-examle
+	url = https://github.com/hffreitas/mssc-brewery-config-examle.git
+[submodule "mssc-beer-service"]
+	path = mssc-beer-service
+	url = https://github.com/hffreitas/mssc-beer-service.git
+[submodule "mssc-beer-order-service"]
+	path = mssc-beer-order-service
+	url = https://github.com/hffreitas/mssc-beer-order-service.git
+[submodule "mssc-brewery-bom"]
+	path = mssc-brewery-bom
+	url = https://github.com/hffreitas/mssc-brewery-bom.git
